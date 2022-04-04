@@ -198,7 +198,6 @@ export function AdminRoom() {
                 // outro popup para o encerrar sala
                 showEndPopup && (
                     <Popup 
-                        question 
                         functionCancel={handleCloseEndPopup}
                         functionConfirm={handleEndRoom} 
                     />
