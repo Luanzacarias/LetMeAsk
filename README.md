@@ -9,7 +9,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org/)
 - [Firebase V9](https://firebase.google.com/)
-- [TyoeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
 - O Projeto desenvolvido durante 25/03/2022 a 02/04/2022, de acordo com a Next Level Week Together - apresentada dos dias 20 a 27 de Junho de 2021 pela [Rocketseat](https://www.rocketseat.com.br/).
